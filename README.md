@@ -1,45 +1,66 @@
-# Dang Minh Khang
+## Dang Minh Khang
 
-Computer Science student at HCMUT (VNU-HCM) in Ho Chi Minh City. Coursework is finished and my degree is conferred on 28 November 2026. Most of my work so far is recommender and retrieval systems, plus an LLM agent backend from my internship.
+CS student at HCMUT (VNU-HCM) in Ho Chi Minh City, graduating November 2026. I build recommender and retrieval systems and LLM agent backends, and I work with data and BI. Looking for fresher and internship roles in AI/ML, data analytics, or LLM backends.
 
-I am looking for fresher and internship roles in AI/ML engineering, data analytics and BI, or LLM agent backends.
+AI Software Intern at Dien Toan Group (2025). Co-author, CSoNet 2026 (Springer LNCS, accepted).
 
-## Projects
+### Languages and data
 
-**[SpecializedProject](https://github.com/LangTuBun/SpecializedProject)**
-A multimodal item-retrieval pipeline on the Amazon Reviews 2023 CDs & Vinyl subset. CLIP image embeddings (512-d) and MiniLM text embeddings are fused into a single 896-d item vector, then searched by cosine similarity with a FAISS index. Results so far are qualitative: t-SNE/UMAP views and K-means clusters grouped by genre.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
+  <img width="12" />
+</div>
 
-**[KidGuard](https://github.com/LangTuBun/kidguard)**
-A team project for the Advanced Software Engineering course at HCMUT. A child-location monitoring system. An Arduino GPS tracker reports to Arduino IoT Cloud, a Node.js/Express backend validates the coordinates and stores them in MySQL, and a React app shows the live position and safe-zone enter/leave events. Sign-in is Google OAuth plus an emailed one-time code.
+### ML and backend
 
-**[Simple Vietnamese Comment Analysis](https://github.com/LangTuBun/Simple-Vietnamese-Comment-Analysis)**
-Vietnamese sentiment classification that compares classical machine learning, deep learning, and a stacking ensemble on the same preprocessed text.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="12" />
+</div>
 
-**[Kotodori](https://github.com/LangTuBun/Kotodori)**
-A self-hosted Japanese study app for JLPT N5/N4 with vocabulary, grammar, kanji, and SM-2 spaced-repetition review. It runs in the browser, keeps data in localStorage, and ships with Docker.
+### Tools
 
-## Experience
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img width="12" />
+</div>
 
-**AI Software Intern, Dien Toan Group** (June to September 2025)
-- Built the backend for an internal AI agent chatbot with FastAPI, the OpenAI API, and Supabase/PostgreSQL, routing requests across 5 domain modules.
-- Wrote 5 FastMCP servers exposing 20+ schema-validated tools.
-- Added role-based access, delete-safety gates, query audit logging, and a Python process supervisor.
-- Supported Power BI publishing and refresh checks.
+Also: Power BI (DAX, Power Query), Looker, FastMCP, Claude Code.
 
-## Research
+### Selected work
 
-Co-author, *Bridging Multimodal Content and Behavioral Signals for Next Best Action Recommendation*, accepted at CSoNet 2026 (Springer LNCS).
-
-## Skills
-
-- **Data and BI:** SQL (PostgreSQL, MySQL), Pandas, NumPy, Power BI (DAX, Power Query), R, Looker
-- **ML and backend:** Python, scikit-learn, PyTorch, FastAPI, FastMCP, OpenAI API, Supabase
-- **Infrastructure:** Docker, Linux, Nginx, Proxmox, Git, MongoDB, Redis
-- **Web:** JavaScript, React
-- **AI coding tools:** Claude Code, Cursor, Codex
-
-Microsoft Power BI Data Analyst Professional Certificate (2026). English: IELTS 6.5. Japanese: elementary, studying for JLPT N4.
-
-## Contact
+- [SpecializedProject](https://github.com/LangTuBun/SpecializedProject): multimodal item retrieval (CLIP + MiniLM, FAISS)
+- [KidGuard](https://github.com/LangTuBun/kidguard): child location monitoring (Arduino, Express, MySQL, React)
+- [Kotodori](https://github.com/LangTuBun/Kotodori): self-hosted JLPT study app (React, Docker)
 
 dangminhkhang264@gmail.com | [LinkedIn](https://www.linkedin.com/in/minhkhang-bon)
