@@ -1,8 +1,8 @@
 ## Dang Minh Khang
 
-CS student at HCMUT (VNU-HCM) in Ho Chi Minh City, graduating November 2026. I build recommender and retrieval systems and LLM agent backends, and I work with data and BI. Looking for fresher and internship roles in AI/ML, data analytics, or LLM backends.
+CS student at HCMUT (VNU-HCM), based in Ho Chi Minh City.
 
-AI Software Intern at Dien Toan Group (2025). Co-author, CSoNet 2026 (Springer LNCS, accepted).
+Interested in recommender systems, information retrieval, LLM agents, and data engineering. I enjoy building things, experimenting with new technologies, and figuring out how systems work.
 
 ### Languages and data
 
